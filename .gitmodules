@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "inedemogR"]
 	path = inedemogR
-	url = https://github.com/cran/inedemogR
+	url = https://github.com/jrcarob/inedemogr
